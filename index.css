@@ -1,0 +1,13 @@
+#box 
+{
+height: 300px;
+width: 300px;
+background-color: red;
+margin: 50px auto;
+cursor: pointer;
+}
+
+h1
+{
+text-align: center;
+}
